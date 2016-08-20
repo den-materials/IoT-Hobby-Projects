@@ -14,10 +14,12 @@ Head to [this page](http://www.circuidipity.com/bbb-led.html) for a quick tutori
 
 ## Making a Web Server
 
+Just like with any other computer, you can start a web server by creating an `index.html` file and running `python -m SimpleHTTPServer`.  Make sure python is installed first.
+
 ### Is the Button Pressed?
 
 ## Turning a Power Strip on
 
 ## Being an Awesome Boyfriend/Girlfriend
 
-
+For Nina's birthday, I created a mail server that would send a cute quote to her email everytime she pressed a button.  It would also send an email to me to let me know she missed me.

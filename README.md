@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-Head to [this page](http://beagleboard.org/static/beaglebone/latest/README.htm) to get the drivers installed on your machine.
+Head to [this page](http://beagleboard.org/static/beaglebone/latest/README.htm) to get the drivers installed on your machine.  This will take 5-10 minutes.
 
 ## Turning the Light on
 

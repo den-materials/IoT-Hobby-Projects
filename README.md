@@ -10,7 +10,7 @@ Head to [this page](http://www.circuidipity.com/bbb-led.html) for a quick tutori
 
 ## Taking the Temperature
 
-
+Head to [this page](http://www.bonebrews.com/temperature-monitoring-with-the-ds18b20-on-a-beaglebone-black/z) for a tutorial to take the temperature with a digital thermometer.
 
 ## Making a Web Server
 

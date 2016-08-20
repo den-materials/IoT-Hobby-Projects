@@ -6,7 +6,11 @@ Head to [this page](http://beagleboard.org/static/beaglebone/latest/README.htm) 
 
 ## Turning the Light on
 
+Head to [this page](http://www.circuidipity.com/bbb-led.html) for a quick tutorial to get you set up with your "IoT Hello World" by blinking lights!
+
 ## Taking the Temperature
+
+
 
 ## Making a Web Server
 

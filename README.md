@@ -28,8 +28,12 @@ I used this functionality to create a small garden of lettuce and radishes in my
 
 ## Being an Awesome Boyfriend/Girlfriend
 
-For Nina's birthday, I created a mail server that would send a cute quote to her email everytime she pressed a button.  It would also send an email to me to let me know she missed me.
+For someone's birthday, you could create a mail server that sends a cute quote to their email everytime they press a button.  It can also send an email to you to let you know they miss you.
+
+## Using Johnny5
+
+Head to [this page](http://johnny-five.io/) to redo your hello-world, but this time **with javascript**.  Scroll down to `Hello World!` and click the `Beaglebone` link to see how to write the code (on the left) and how to set up the hardware (on the right).
 
 ## Other Ideas
 
-What would you like to do with Internet of Things?
+What would you like to do with Internet of Things?  After the break, pitch your idea, and we'll assemble teams.

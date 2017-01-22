@@ -4,6 +4,16 @@
 
 Head to [this page](http://beagleboard.org/static/beaglebone/latest/README.htm) to get the drivers installed on your machine.  This will take 5-10 minutes.
 
+>**Note:** You only need to complete Step 1 (plug in to USB) and Step 2 (install drivers) on this page.
+
+Once the drivers are installed, you should be able to SSH into your Beaglebone.
+
+### Details:
+
+- IP Address: 192.168.7.2
+- Username: root
+- Password: *instructor will tell you*
+
 ## Turning the Light on
 
 Head to [this page](http://www.circuidipity.com/bbb-led.html) for a quick tutorial to get you set up with your "IoT Hello World" by blinking lights!

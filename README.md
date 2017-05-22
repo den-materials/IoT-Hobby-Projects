@@ -10,7 +10,7 @@ Once the drivers are installed, you should be able to SSH into your Beaglebone.
 
 ### Details:
 
-- IP Address: 192.168.7.2
+- IP Address: *instructor will tell you*
 - Username: root
 - Password: *instructor will tell you*
 

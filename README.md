@@ -26,9 +26,13 @@ For the remainder of these steps, you will find the diagram below very useful.  
 
 Head to [this page](http://www.circuidipity.com/bbb-led.html) for a quick tutorial to get you set up with your "IoT Hello World" by blinking lights!  Take turns driving so everyone can get a feel for the computer and what it can do.
 
+If you are working on a Raspberry Pi, you'll want to use [this tutorial](https://projects.drogon.net/raspberry-pi/gpio-examples/tux-crossing/gpio-examples-1-a-single-led/) instead.
+
 ## Taking the Temperature
 
 Head to [this page](http://www.bonebrews.com/temperature-monitoring-with-the-ds18b20-on-a-beaglebone-black/) for a tutorial to take the temperature with a digital thermometer.
+
+If you are working on a Raspberry Pi, you'll want to use [this tutorial](https://www.modmypi.com/blog/ds18b20-one-wire-digital-temperature-sensor-and-the-raspberry-pi) instead.
 
 ## Making a Web Server
 

@@ -32,7 +32,7 @@ If you are working on a Raspberry Pi, you'll want to use [this tutorial](https:/
 
 Head to [this page](http://www.bonebrews.com/temperature-monitoring-with-the-ds18b20-on-a-beaglebone-black/) for a tutorial to take the temperature with a digital thermometer.
 
-If you are working on a Raspberry Pi, you'll want to use [this tutorial](https://www.modmypi.com/blog/ds18b20-one-wire-digital-temperature-sensor-and-the-raspberry-pi) instead.
+If you are working on a Raspberry Pi, you'll want to use [this tutorial](https://learn.adafruit.com/adafruits-raspberry-pi-lesson-11-ds18b20-temperature-sensing/hardware) instead.
 
 ## Making a Web Server
 
